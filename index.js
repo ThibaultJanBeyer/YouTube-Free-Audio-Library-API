@@ -17,4 +17,4 @@ const res = {
   count: arr.length,
 }
 
-fs.writeFileSync(`./info.json`, JSON.stringify(res))
+fs.writeFileSync(`./api.json`, JSON.stringify(res))
