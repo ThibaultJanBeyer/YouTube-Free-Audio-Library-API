@@ -1,1 +1,2 @@
-songs
+songs/**/*
+!songs/*.js
