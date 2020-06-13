@@ -1,12 +1,6 @@
 export default [
   {
    "kind": "drive#file",
-   "id": "1IxSjkgfMRwBYENHdZhA6InXXYhROglaV",
-   "name": "1",
-   "mimeType": "application/vnd.google-apps.folder"
-  },
-  {
-   "kind": "drive#file",
    "id": "1KAk_m-PLFD8oT5EJ2JDBqx_Q0TqCeSEx",
    "name": "Sky_Skating.mp3",
    "mimeType": "audio/mpeg"
@@ -226,12 +220,6 @@ export default [
    "id": "1pfFdjXRdG2XTrAnjXk4HDGgAzHxubuu-",
    "name": "8bit_Dungeon_Level_Video_Classica.mp3",
    "mimeType": "audio/mpeg"
-  },
-  {
-   "kind": "drive#file",
-   "id": "1uVUwRU2wVbJH4ne9UrVgPppGCyv-o3VD",
-   "name": "1",
-   "mimeType": "application/vnd.google-apps.folder"
   },
   {
    "kind": "drive#file",

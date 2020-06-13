@@ -1,12 +1,6 @@
 export default [
   {
     "kind": "drive#file",
-    "id": "1H9mXWnrz4SHh-SNKQwndJ-SbT9m3ToIt",
-    "name": "3",
-    "mimeType": "application/vnd.google-apps.folder"
-  },
-  {
-    "kind": "drive#file",
     "id": "1vMVskLXsoDBP43_aPIn6fYUUMsQ_dNnC",
     "name": "Kiss_for_a_Dance.mp3",
     "mimeType": "audio/mpeg"
@@ -616,12 +610,6 @@ export default [
     "id": "1B9RosVvE2Yh1VKQsaMaIflWDas1U3RE6",
     "name": "1940_s_Slow_Dance_Sting.mp3",
     "mimeType": "audio/mpeg"
-  },
-  {
-    "kind": "drive#file",
-    "id": "1AnfixuzRcH7FaGF2jL7M_RoFFis0mo4S",
-    "name": "3",
-    "mimeType": "application/vnd.google-apps.folder"
   },
   {
     "kind": "drive#file",

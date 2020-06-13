@@ -1,18 +1,6 @@
 export default [
   {
     "kind": "drive#file",
-    "id": "1sAyz3HSt9th0lAYKNJmq98nadwpVFjWM",
-    "name": "2",
-    "mimeType": "application/vnd.google-apps.folder"
-  },
-  {
-    "kind": "drive#file",
-    "id": "1ka-10XBUuvQjgknGPUtMmHH0QH7oBF8H",
-    "name": "2",
-    "mimeType": "application/vnd.google-apps.folder"
-  },
-  {
-    "kind": "drive#file",
     "id": "16dABEOK308zjr9V8ShscmB5EAy3PIPiC",
     "name": "Turtleneck.mp3",
     "mimeType": "audio/mpeg"
